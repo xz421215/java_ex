@@ -30,14 +30,5 @@ public class PokeAndWinGame{
         else
             System.out.println("未中獎");
         } while (true);    
-/*
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("請輸入數字:");
-        int i = scanner.nextInt();
-        if(prime(i))
-            System.out.print(i+"是質數");
-        else
-            System.out.print(i+"不是質數");
-*/
     }
 }

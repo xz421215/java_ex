@@ -18,14 +18,5 @@ public class PokeAndWin{
             poke[x][y]=true;
             //System.out.println(x+","+y); //debug
         }
-/*
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("請輸入數字:");
-        int i = scanner.nextInt();
-        if(prime(i))
-            System.out.print(i+"是質數");
-        else
-            System.out.print(i+"不是質數");
-*/
     }
 }

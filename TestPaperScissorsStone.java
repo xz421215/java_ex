@@ -26,11 +26,4 @@ public class TestPaperScissorsStone{
             System.out.println("你輸了");
         }
     }
-    /*public static void GestureInt2Str(int Gesture) {
-        if(Gesture==1)
-            return 剪刀;
-        if(Gesture==2)
-            return 石頭;
-        return 布;
-    }*/
 }
