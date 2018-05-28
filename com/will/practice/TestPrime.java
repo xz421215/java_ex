@@ -1,12 +1,12 @@
+package com.will.practice;
 /*
-請建立一個TestPrime.java，可輸出0~100間所有的質數
+請建立�??�TestPrime.java，可輸出0~100??��???��?�質?��
 */
-import java.lang.*;
 import java.util.Scanner;
 public class TestPrime{
     public static void main(String[] args) {
         for(int i=1; i<=100; i++) {
-            if(prime(i))
+            if(PrimeCaculator.run(i))
                 System.out.print(i+",");  
         }
     }
