@@ -1,10 +1,8 @@
-package com.will.practice;
 /*
-請建立一個PokeAndWin.java，含有一個10*10的二維陣列，並且隨機在裡面放入10個有中獎的紙條，
-再建立一個PokeAndWinGame.java，輸入行和列之後，回傳有沒有中獎
-
+ * 請建立一個PokeAndWin.java，含有一個10*10的二維陣列，
+ * 並且隨機在裡面放入10個有中獎的紙條，再建立一個PokeAndWinGame.java，輸入行和列之後，回傳有沒有中獎
 */
-import java.lang.*;
+package com.will.practice;
 import java.util.Scanner;
 public class PokeAndWinGame{
     public static void main(String[] args) {
